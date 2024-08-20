@@ -28,4 +28,6 @@ The `Device` class includes functionalities to:
 - Calculate the total volume, surface area, and mass of the device and its components.
 - Manage nested devices and shapes, and compute aggregate properties considering all levels of hierarchy.
 
+## Compile
+There is a `main.exe` for windows in every parts direcoty.
 
