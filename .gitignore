@@ -1,0 +1,8 @@
+
+/Part1/Part1
+/Part1/x64
+*.sln
+*.vcxproj
+*.filters
+*.user
+/Part1/.vs
