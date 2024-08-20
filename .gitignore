@@ -6,3 +6,8 @@
 *.filters
 *.user
 /Part1/.vs
+*.vsidx
+/Part2/.vs
+*.obj
+/Part2/Part2
+/Part2/x64
